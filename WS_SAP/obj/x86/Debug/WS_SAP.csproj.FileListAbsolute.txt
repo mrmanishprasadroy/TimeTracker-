@@ -1,0 +1,24 @@
+C:\Users\suda\Documents\Visual Studio 2010\Projects\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe
+C:\Users\suda\Documents\Visual Studio 2010\Projects\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe.config
+C:\Users\suda\Documents\Visual Studio 2010\Projects\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.ProjectInstaller.resources
+C:\Users\suda\Documents\Visual Studio 2010\Projects\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.csproj.GenerateResource.Cache
+C:\Users\suda\Documents\Visual Studio 2010\Projects\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.exe
+C:\Users\suda\Documents\Visual Studio 2010\Projects\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.pdb
+C:\Users\suda\Documents\Visual Studio 2010\Projects\WS_SAP\WS_SAP\bin\Debug\WS_SAP.pdb
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe.config
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.exe
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.pdb
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.pdb
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.ProjectInstaller.resources
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.csproj.GenerateResource.Cache
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\ProjectInstaller.resx
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\ProjectInstaller.cs
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\ProjectInstaller.Designer.cs
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.Service1.resources
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe.manifest
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.application
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.TrustInfo.xml
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.exe.manifest
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.application
+D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\obj\x86\Debug\WS_SAP.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.InstallLog
+   assemblypath = D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe
+Installing service WS_SAP...
+Service WS_SAP has been successfully installed.
+Creating EventLog source WS_SAP in log Application...
+Committing assembly 'D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.InstallLog
+   assemblypath = D:\Test_project\Sap_WS_SERVICE\WS_SAP\WS_SAP\bin\Debug\WS_SAP.exe

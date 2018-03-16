@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Configuration.Install;
+using System.Linq;
+using System.ServiceProcess;
+using System.Configuration;
+using System.Data.OleDb;
+using System.IO;
+using System.Data;
+
+
+namespace WS_SAP
+{
+    [RunInstaller(true)]
+    public partial class ProjectInstaller : System.Configuration.Install.Installer
+    {
+      
+        public ProjectInstaller()
+        {
+            InitializeComponent();
+        }
+
+        private void serviceInstaller1_AfterInstall(object sender, InstallEventArgs e)
+        {
+            new ServiceController(serviceInstaller1.ServiceName).Start(); 
+        }
+    }
+}
